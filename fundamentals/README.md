@@ -17,7 +17,7 @@ Use array literal notation to create an array using the following syntax:
 
 An array can hold any data inside of it (including other arrays!) and can even hold multiple data types.  
 
-## You Do
+## 🎓 You Do
 
 Create an array named `movies` containing the titles (as strings) of three of your favorite movies.
 
