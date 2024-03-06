@@ -48,4 +48,4 @@ This works because the code `movies.length - 1` will resolve to the number 2, an
 > let color = colors[1];
 > ```
 
-> 🚀 Check out the [`at()` Level Up](../level-up/at.md) if you're curious about accessing the last element of an array in a more concise way!
+> 🚀 Check out the [`at()` lesson](../level-up/at.md) if you're curious about accessing the last element of an array in a more concise way!
