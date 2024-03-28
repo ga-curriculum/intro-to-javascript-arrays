@@ -56,7 +56,7 @@ movies.pop();
 `pop()` doesn’t take any arguments and returns the element that was removed from the array:
 
 ```js
-const removedMovie = movies.shift();
+const removedMovie = movies.pop();
 // movies is ['Barbie', 'Arrival', 'Get Out']
 // removedMovie is 'Parasite'
 ```
