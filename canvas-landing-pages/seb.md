@@ -25,7 +25,7 @@ This JavaScript Arrays module is designed to provide a comprehensive introductio
 | [`shift()` and `unshift()`](../level-up/shift-unshift.md) | Adding and removing elements at array start with `unshift()` and `shift()` methods |
 | [Expanding on `forEach()`](../level-up/expanding-on-forEach.md) | Advanced `forEach()` usage: named functions, scope management, and loop limitations |
 | [`break` and `continue`](../level-up/break-and-continue.md) | Using `break` and `continue` in loop control |
-| [Copying Arrays](../level-up/copying.md) | Copying arrays using `spread` syntax and `slice()` |
+| [Copying Arrays](../level-up/copying-arrays.md) | Copying arrays using `spread` syntax and `slice()` |
 | [Shallow vs. Deep Copies of Arrays](../level-up/shallow-vs-deep.md) | Shallow vs. deep copies, using `JSON.stringify()` and `structuredClone()` |
 
 ## Reference
