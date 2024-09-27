@@ -23,14 +23,14 @@ This JavaScript Arrays module is designed to provide a comprehensive introductio
 
 ## Level Up content
 
-| Lesson                                                              | Skills                                                                              |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [`at()`](../level-up/at.md)                                         | Using `at()` method for array element access with positive and negative indexes     |
-| [`shift()` and `unshift()`](../level-up/shift-unshift.md)           | Adding and removing elements at array start with `unshift()` and `shift()` methods  |
-| [Expanding on `forEach()`](../level-up/expanding-on-forEach.md)     | Advanced `forEach()` usage: named functions, scope management, and loop limitations |
-| [`break` and `continue`](../level-up/break-and-continue.md)         | Using `break` and `continue` in loop control                                        |
-| [Copying Arrays](../level-up/copying-arrays.md)                     | Copying arrays using `spread` syntax and `slice()`                                  |
-| [Shallow vs. Deep Copies of Arrays](../level-up/shallow-vs-deep.md) | Shallow vs. deep copies, using `JSON.stringify()` and `structuredClone()`           |
+| Lesson                                                            | Skills                                                                              |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [`at()`](../at/README.md)                                         | Using `at()` method for array element access with positive and negative indexes     |
+| [`shift()` and `unshift()`](../shift-unshift/README.md)           | Adding and removing elements at array start with `unshift()` and `shift()` methods  |
+| [Expanding on `forEach()`](../expanding-on-forEach/README.md)     | Advanced `forEach()` usage: named functions, scope management, and loop limitations |
+| [`break` and `continue`](../break-and-continue/README.md)         | Using `break` and `continue` in loop control                                        |
+| [Copying Arrays](../copying-arrays/README.md)                     | Copying arrays using `spread` syntax and `slice()`                                  |
+| [Shallow vs. Deep Copies of Arrays](../shallow-vs-deep/README.md) | Shallow vs. deep copies, using `JSON.stringify()` and `structuredClone()`           |
 
 ## Reference
 
