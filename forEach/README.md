@@ -74,5 +74,3 @@ This is the third movie:
 Get Out
 Coco
 ```
-
-> 🚀 Check out the [Expanding on `forEach()` Level Up](../level-up/expanding-on-forEach.md) for more examples of using this method.

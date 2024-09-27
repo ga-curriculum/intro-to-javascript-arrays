@@ -72,6 +72,6 @@ Coco
 > - ***I***mperative programming requires ***i***nstructions to carry out a task.
 > - ***D***eclarative programming is a ***d***ecree unconcerned with how the result happens, just that it does.
 
-A `for...of` loop has couple of extra unique features in addition to this more declarative approach. Check out the [`break` and `continue` Level Up](../level-up/break.md) for more.
+A `for...of` loop has couple of extra unique features in addition to this more declarative approach.
 
 > ⚠️ JavaScript also provides a `for...in` loop. It's designed mainly for iterating over an object's properties rather than array items. Be sure you're using the correct loop for your needs.

@@ -71,5 +71,3 @@ const removedMovie = movies.pop();
 Add a movie of your choice to the end of the array!
 
 Can't think of a movie? If you need a suggestion, I'll be adding **Coco**.
-
-> 🚀 Check out the [`shift()` and `unshift()` Level Up](../level-up/shift-unshift.md) for details on adding/removing from the beginning of an array!
