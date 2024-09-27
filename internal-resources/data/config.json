@@ -125,6 +125,123 @@
       "isLightModeForcedDefault": false,
       "isDarkModeForcedDefault": false,
       "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "<code>join()</code>",
+          "dirName": "join",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Reading",
+          "dirName": "reading",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulation",
+          "dirName": "manipulation",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Iteration",
+          "dirName": "iteration",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>forEach()</code>",
+          "dirName": "forEach",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "You Do",
+          "dirName": "you-do",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>at()</code>",
+          "dirName": "at",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>shift()</code> and <code>unshift()</code>",
+          "dirName": "shift-unshift",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Expanding on <code>forEach()</code>",
+          "dirName": "expanding-on-forEach",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>break</code> and <code>continue</code>",
+          "dirName": "break-and-continue",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Copying Arrays",
+          "dirName": "copying-arrays",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Shallow vs Deep Copies of Arrays",
+          "dirName": "shallow-vs-deep",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
     }
   ]
 }

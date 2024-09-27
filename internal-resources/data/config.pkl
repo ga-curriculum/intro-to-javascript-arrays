@@ -38,5 +38,38 @@ courses {
       mls.shallowVsDeep
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.join
+      mls.setup
+      mls.concepts
+      mls.fundamentals
+      mls.reading
+      mls.manipulation
+      mls.iteration
+      mls.forEach
+      mls.youDo
+      (mls.at) {
+        type = "Level Up content"
+      }
+      (mls.shiftUnshift) {
+        type = "Level Up content"
+      }
+      (mls.expandingOnForEach) {
+        type = "Level Up content"
+      }
+      (mls.breakAndContinue) {
+        type = "Level Up content"
+      }
+      (mls.copyingArrays) {
+        type = "Level Up content"
+      }
+      (mls.shallowVsDeep) {
+        type = "Level Up content"
+      }
+    }
+  }
 }
 
