@@ -1,6 +1,0 @@
-Lecture title: Intro to JavaScript Arrays
-Subtitle:  Wrap Up
-
-wrap-up-01
-
-- Chapter title: What are arrays?

@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Iteration](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Iteration</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use both `for` and `for...of` loops to iterate through arrays and manipulate each element.
 

@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Reference](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references 
 

@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Reading ](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Reading</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, the learner will be able to accurately retrieve elements from an array using both an index and the length property.
 
