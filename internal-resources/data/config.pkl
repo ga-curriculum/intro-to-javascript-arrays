@@ -21,7 +21,6 @@ courses {
     name = "fallback"
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.join
       mls.setup
       mls.concepts
       mls.fundamentals
@@ -29,6 +28,7 @@ courses {
       mls.manipulation
       mls.iteration
       mls.forEach
+      mls.join
       mls.youDo
       mls.at
       mls.shiftUnshift
@@ -42,7 +42,6 @@ courses {
     name = "seb"
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.join
       mls.setup
       mls.concepts
       mls.fundamentals
@@ -50,6 +49,7 @@ courses {
       mls.manipulation
       mls.iteration
       mls.forEach
+      mls.join
       mls.youDo
       (mls.at) {
         type = "Level Up content"

@@ -14,12 +14,6 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "<code>join()</code>",
-          "dirName": "join",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
@@ -58,6 +52,12 @@
         {
           "friendlyName": "<code>forEach()</code>",
           "dirName": "forEach",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>join()</code>",
+          "dirName": "join",
           "type": "Content",
           "videoUrl": ""
         },
@@ -131,12 +131,6 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "<code>join()</code>",
-          "dirName": "join",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
@@ -175,6 +169,12 @@
         {
           "friendlyName": "<code>forEach()</code>",
           "dirName": "forEach",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "<code>join()</code>",
+          "dirName": "join",
           "type": "Content",
           "videoUrl": ""
         },

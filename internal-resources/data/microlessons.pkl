@@ -2,13 +2,6 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-join = new Template.Microlesson {
-  friendlyName = "<code>join()</code>"
-  dirName = "join"
-  type = "Content"
-  videoUrl = ""
-}
-
 setup = new Template.Microlesson {
   friendlyName = "Setup"
   dirName = "setup"
@@ -54,6 +47,13 @@ iteration = new Template.Microlesson {
 forEach = new Template.Microlesson {
   friendlyName = "<code>forEach()</code>"
   dirName = "forEach"
+  type = "Content"
+  videoUrl = ""
+}
+
+join = new Template.Microlesson {
+  friendlyName = "<code>join()</code>"
+  dirName = "join"
   type = "Content"
   videoUrl = ""
 }
