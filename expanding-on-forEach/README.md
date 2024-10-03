@@ -64,4 +64,4 @@ console.log(sum);
 
 ## Stopping the execution of a `forEach()` loop
 
-Do not terminate `forEach()` loops early. Doing so would break the otherwise clear intentions of the `forEach()` method. If you need to do this, use another tool, such as the `for...of` loop, which you can break out of if necessary. See the [`break` and `continue` Level Up](./break-and-continue.md) for more.
+Do not terminate `forEach()` loops early. Doing so would break the otherwise clear intentions of the `forEach()` method. If you need to do this, use another tool, such as the `for...of` loop, which you can break out of if necessary. See the `break and continue` Lesson for more.

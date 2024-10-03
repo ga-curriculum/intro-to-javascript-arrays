@@ -1,7 +1,7 @@
 <h1>
   <span class="headline">Intro to JavaScript Arrays</span>
   <span class="subhead"><code>join()</code></span>
-</h1># ![Intro to JavaScript Arrays - Level Up - `join()`](./join.md)
+</h1>
 
 ## `join()` example
 
