@@ -45,14 +45,14 @@ iteration = new Template.Microlesson {
 }
 
 forEach = new Template.Microlesson {
-  friendlyName = "<code>forEach()</code>"
+  friendlyName = " forEach() "
   dirName = "forEach"
   type = "Content"
   videoUrl = ""
 }
 
 join = new Template.Microlesson {
-  friendlyName = "<code>join()</code>"
+  friendlyName = " join() "
   dirName = "join"
   type = "Content"
   videoUrl = ""
@@ -66,28 +66,28 @@ youDo = new Template.Microlesson {
 }
 
 at = new Template.Microlesson {
-  friendlyName = "<code>at()</code>"
+  friendlyName = " at() "
   dirName = "at"
   type = "Content"
   videoUrl = ""
 }
 
 shiftUnshift = new Template.Microlesson {
-  friendlyName = "<code>shift()</code> and <code>unshift()</code>"
+  friendlyName = " shift()  and  unshift() "
   dirName = "shift-unshift"
   type = "Content"
   videoUrl = ""
 }
 
 expandingOnForEach = new Template.Microlesson {
-  friendlyName = "Expanding on <code>forEach()</code>"
+  friendlyName = "Expanding on  forEach() "
   dirName = "expanding-on-forEach"
   type = "Content"
   videoUrl = ""
 }
 
 breakAndContinue = new Template.Microlesson {
-  friendlyName = "<code>break</code> and <code>continue</code>"
+  friendlyName = " break  and  continue "
   dirName = "break-and-continue"
   type = "Content"
   videoUrl = ""

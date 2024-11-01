@@ -50,13 +50,13 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>forEach()</code>",
+          "friendlyName": " forEach() ",
           "dirName": "forEach",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>join()</code>",
+          "friendlyName": " join() ",
           "dirName": "join",
           "type": "Content",
           "videoUrl": ""
@@ -68,25 +68,25 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>at()</code>",
+          "friendlyName": " at() ",
           "dirName": "at",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>shift()</code> and <code>unshift()</code>",
+          "friendlyName": " shift()  and  unshift() ",
           "dirName": "shift-unshift",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Expanding on <code>forEach()</code>",
+          "friendlyName": "Expanding on  forEach() ",
           "dirName": "expanding-on-forEach",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>break</code> and <code>continue</code>",
+          "friendlyName": " break  and  continue ",
           "dirName": "break-and-continue",
           "type": "Content",
           "videoUrl": ""
@@ -167,13 +167,13 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>forEach()</code>",
+          "friendlyName": " forEach() ",
           "dirName": "forEach",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>join()</code>",
+          "friendlyName": " join() ",
           "dirName": "join",
           "type": "Content",
           "videoUrl": ""
@@ -185,25 +185,25 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>at()</code>",
+          "friendlyName": " at() ",
           "dirName": "at",
           "type": "Level Up content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>shift()</code> and <code>unshift()</code>",
+          "friendlyName": " shift()  and  unshift() ",
           "dirName": "shift-unshift",
           "type": "Level Up content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Expanding on <code>forEach()</code>",
+          "friendlyName": "Expanding on  forEach() ",
           "dirName": "expanding-on-forEach",
           "type": "Level Up content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>break</code> and <code>continue</code>",
+          "friendlyName": " break  and  continue ",
           "dirName": "break-and-continue",
           "type": "Level Up content",
           "videoUrl": ""
