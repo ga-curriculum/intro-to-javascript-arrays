@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Open your Terminal application and navigate to your **`~/code/ga/lectures`** directory:
 
@@ -6,11 +9,11 @@ Open your Terminal application and navigate to your **`~/code/ga/lectures`** dir
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`js-arrays`**, then enter this directory:
+Make a new directory called **`intro-to-javascript-arrays`**, then enter this directory:
 
 ```bash
-mkdir js-arrays
-cd js-arrays
+mkdir intro-to-javascript-arrays
+cd intro-to-javascript-arrays
 ```
 
 Then, create an **`app.js`** and an **`index.html`** file. These files will hold your work for this lecture:
@@ -35,7 +38,7 @@ With this setup complete, we'll have two methods at our disposal for executing t
 
 - Open the **`index.html`** file in your browser and access the console output in your browser's dev tools.
 - Use `node` to execute the **`app.js`** file directly by using this command in your terminal:
-  
+
   ```bash
   node app.js
   ```

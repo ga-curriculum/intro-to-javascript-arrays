@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Iteration](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Iteration</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use both `for` and `for...of` loops to iterate through arrays and manipulate each element.
 
@@ -69,6 +72,6 @@ Coco
 > - ***I***mperative programming requires ***i***nstructions to carry out a task.
 > - ***D***eclarative programming is a ***d***ecree unconcerned with how the result happens, just that it does.
 
-A `for...of` loop has couple of extra unique features in addition to this more declarative approach. Check out the [`break` and `continue` Level Up](../level-up/break.md) for more.
+A `for...of` loop has couple of extra unique features in addition to this more declarative approach.
 
 > ⚠️ JavaScript also provides a `for...in` loop. It's designed mainly for iterating over an object's properties rather than array items. Be sure you're using the correct loop for your needs.

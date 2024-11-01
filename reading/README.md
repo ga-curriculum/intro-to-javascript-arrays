@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Reading ](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Reading</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, the learner will be able to accurately retrieve elements from an array using both an index and the length property.
 
@@ -47,5 +50,3 @@ This works because the code `movies.length - 1` will resolve to the number 2, an
 > const colors = ['red', 'green', 'blue'];
 > let color = colors[1];
 > ```
-
-> 🚀 Check out the [`at()` lesson](../level-up/at.md) if you're curious about accessing the last element of an array in a more concise way!

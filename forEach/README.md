@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - `forEach()`](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead"><code>forEach()</code></span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to utilize the `forEach()` method to execute a function on each item in an array.
 
@@ -71,5 +74,3 @@ This is the third movie:
 Get Out
 Coco
 ```
-
-> 🚀 Check out the [Expanding on `forEach()` Level Up](../level-up/expanding-on-forEach.md) for more examples of using this method.

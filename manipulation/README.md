@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - Manipulation](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">Manipulation</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to update existing array elements and utilize methods like `push()` and `pop()` to add or remove elements at the start or end of an array.
 
@@ -68,5 +71,3 @@ const removedMovie = movies.pop();
 Add a movie of your choice to the end of the array!
 
 Can't think of a movie? If you need a suggestion, I'll be adding **Coco**.
-
-> 🚀 Check out the [`shift()` and `unshift()` Level Up](../level-up/shift-unshift.md) for details on adding/removing from the beginning of an array!

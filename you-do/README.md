@@ -1,4 +1,7 @@
-# ![Intro to JavaScript Arrays - You Do](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays</span>
+  <span class="subhead">You Do</span>
+</h1>
 
 Let's practice creating, modifying, and iterating over an array of strings!
 
